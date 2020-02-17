@@ -1,0 +1,9 @@
+C:\Users\hruby\source\repos\Circles\Circles\obj\Debug\Circles.csprojAssemblyReference.cache
+C:\Users\hruby\source\repos\Circles\Circles\obj\Debug\Circles.Form1.resources
+C:\Users\hruby\source\repos\Circles\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\Users\hruby\source\repos\Circles\Circles\obj\Debug\Circles.csproj.GenerateResource.cache
+C:\Users\hruby\source\repos\Circles\Circles\bin\Debug\Circles.exe.config
+C:\Users\hruby\source\repos\Circles\Circles\bin\Debug\Circles.exe
+C:\Users\hruby\source\repos\Circles\Circles\bin\Debug\Circles.pdb
+C:\Users\hruby\source\repos\Circles\Circles\obj\Debug\Circles.exe
+C:\Users\hruby\source\repos\Circles\Circles\obj\Debug\Circles.pdb
